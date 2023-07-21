@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="407.22076mm"
+   height="513.7818mm"
+   viewBox="0 0 407.22076 513.78181"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="drawing.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.5"
+     inkscape:cx="695"
+     inkscape:cy="738"
+     inkscape:window-width="1920"
+     inkscape:window-height="1007"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:connector-spacing="9" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient10386"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#8b8b8b;stop-opacity:1;"
+         offset="0"
+         id="stop10384" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient9250"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#8b8b8b;stop-opacity:1;"
+         offset="0"
+         id="stop9248" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5588">
+      <stop
+         style="stop-color:#40cbc9;stop-opacity:1;"
+         offset="0"
+         id="stop5584" />
+      <stop
+         style="stop-color:#40cb40;stop-opacity:0;"
+         offset="1"
+         id="stop5586" />
+    </linearGradient>
+    <rect
+       x="443.98166"
+       y="284.81842"
+       width="16.10964"
+       height="21.909109"
+       id="rect239" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5588"
+       id="linearGradient5590"
+       x1="60.697346"
+       y1="181.1573"
+       x2="63.516556"
+       y2="181.1573"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(4.5673678,-0.12056446)" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(15.003444,18.413318)">
+    <text
+       xml:space="preserve"
+       style="font-size:3.21888px;fill:#280b0b;stroke-width:0.268239"
+       x="2.2159743"
+       y="6.7994919"
+       id="text165"
+       transform="scale(0.91006119,1.0988272)"><tspan
+         sodipodi:role="line"
+         id="tspan163"
+         style="font-size:4.29185px;stroke-width:0.268239"
+         x="2.2159743"
+         y="6.7994919">A target of this this article is a mind. The goal is not to copy a human-animal nature of mind </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.29185px;stroke-width:0.268239"
+         x="2.2159743"
+         y="12.164305"
+         id="tspan167">and formalize it, but make a program with a high complexity structure, which would apply in practice some of the </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.29185px;stroke-width:0.268239"
+         x="2.2159743"
+         y="17.529118"
+         id="tspan219">logical blocks of human-animal and animal mind in combination with efficient algorythms and data </tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.29185px;stroke-width:0.268239"
+         x="2.2159743"
+         y="22.89393"
+         id="tspan231">structures in computer science. As a result of this work it is expected to get a flexible data structure, which</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.268239"
+         x="2.2159743"
+         y="28.258743"
+         id="tspan235"><tspan
+   style="font-size:4.29185px;stroke-width:0.268239"
+   id="tspan243">would be able to solve efficiently any sort of task especially tasks, which require  more complex approach.</tspan>       </tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text237"
+       style="white-space:pre;shape-inside:url(#rect239);display:inline;fill:#280b0b" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;fill:#280b0b;stroke-width:0.264583"
+       x="1.9280541"
+       y="42.522186"
+       id="text634"><tspan
+         sodipodi:role="line"
+         id="tspan632"
+         style="stroke-width:0.264583"
+         x="1.9280541"
+         y="42.522186">A structure of this program is represented by  logical blocks, which can communicate with each</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="1.9280541"
+         y="47.81385"
+         id="tspan636">other through the agency of sockets. The program can be devided into 4 main blocks:</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="1.9280541"
+         y="53.105511"
+         id="tspan638">Readers, interpreters, memory, output. This trivial representation meant to simplify the actual</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="1.9280541"
+         y="58.397171"
+         id="tspan642">difficulty of the program, because in fact there arn't any exact borders between these classes,</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="1.9280541"
+         y="63.688835"
+         id="tspan644">it is more like four trees standing next to each other and their</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="1.9280541"
+         y="68.980499"
+         id="tspan646">branches are tightly intertwined, so as roots.  </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="1.9280541"
+         y="74.272156"
+         id="tspan640">  </tspan></text>
+    <rect
+       style="fill:#5656ff;fill-opacity:1;stroke-width:0.264583"
+       id="rect883"
+       width="23.629219"
+       height="15.913555"
+       x="12.242493"
+       y="120.46863"
+       inkscape:connector-avoid="true" />
+    <rect
+       style="fill:#54ff54;fill-opacity:1;stroke-width:0.264583"
+       id="rect883-6"
+       width="23.629219"
+       height="15.913555"
+       x="49.133007"
+       y="120.46863"
+       inkscape:connector-avoid="true" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;fill:#280b0b;stroke-width:0.264583"
+       x="50.927048"
+       y="130.01291"
+       id="text1019-3"
+       inkscape:transform-center-x="6.5100911"
+       inkscape:transform-center-y="-3.8578317"><tspan
+         sodipodi:role="line"
+         id="tspan1017-5"
+         style="fill:#280b0b;stroke-width:0.264583"
+         x="50.927048"
+         y="130.01291">Sensor 2</tspan></text>
+    <rect
+       style="fill:#ff6c6c;fill-opacity:1;stroke-width:0.264583"
+       id="rect883-7"
+       width="23.629219"
+       height="15.913555"
+       x="86.746864"
+       y="120.22751"
+       inkscape:connector-avoid="true" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;fill:#280b0b;stroke-width:0.264583"
+       x="13.674861"
+       y="130.01291"
+       id="text1019"><tspan
+         sodipodi:role="line"
+         id="tspan1017"
+         style="fill:#280b0b;stroke-width:0.264583"
+         x="13.674861"
+         y="130.01291">Sensor 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;fill:#280b0b;stroke-width:0.264583"
+       x="87.455887"
+       y="129.77179"
+       id="text1019-9"><tspan
+         sodipodi:role="line"
+         id="tspan1017-1"
+         style="fill:#280b0b;stroke-width:0.264583"
+         x="87.455887"
+         y="129.77179">Sensor 3</tspan></text>
+    <rect
+       style="fill:#c8b7b7;stroke-width:0.264583"
+       id="rect1511"
+       width="25.558134"
+       height="22.182524"
+       x="12.242493"
+       y="149.16124"
+       inkscape:connector-avoid="true" />
+    <rect
+       style="fill:#c8b7b7;stroke-width:0.264583"
+       id="rect1511-2"
+       width="25.558134"
+       height="22.182524"
+       x="48.65078"
+       y="148.67902"
+       inkscape:connector-avoid="true" />
+    <rect
+       style="fill:#c8b7b7;stroke-width:0.264583"
+       id="rect1511-7"
+       width="25.558134"
+       height="22.182524"
+       x="84.335724"
+       y="148.92014"
+       inkscape:connector-avoid="true" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;fill:#280b0b;stroke-width:0.264583"
+       x="12.702574"
+       y="161.2558"
+       id="text1763"><tspan
+         sodipodi:role="line"
+         id="tspan1761"
+         style="fill:#280b0b;stroke-width:0.264583"
+         x="12.702574"
+         y="161.2558"> Interpreter1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;fill:#280b0b;stroke-width:0.264583"
+       x="48.749191"
+       y="160.77357"
+       id="text1763-0"><tspan
+         sodipodi:role="line"
+         id="tspan1761-9"
+         style="fill:#280b0b;stroke-width:0.264583"
+         x="48.749191"
+         y="160.77357"> Interpreter2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;fill:#280b0b;stroke-width:0.264583"
+       x="83.701141"
+       y="161.01469"
+       id="text1763-3"><tspan
+         sodipodi:role="line"
+         id="tspan1761-6"
+         style="fill:#280b0b;stroke-width:0.264583"
+         x="83.701141"
+         y="161.01469"> Interpreter3</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 24.057101,136.38219 v 6.38952 h 0.96446 v 6.38953"
+       id="path2285"
+       inkscape:connector-type="orthogonal"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.366109px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;image-rendering:auto"
+       d="m 61.744446,136.38539 -0.05708,12.29056"
+       id="path2287"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:highlight-color="#a23bee"
+       sodipodi:insensitive="true" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 98.561474,136.14106 v 6.38954 H 97.11479 v 6.38953"
+       id="path2289"
+       inkscape:connector-type="orthogonal"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect883-7" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 25.02156,160.2525 v 1.0033 h -0.602088"
+       id="path2299"
+       inkscape:connector-type="orthogonal"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect1511" />
+    <ellipse
+       style="fill:#ff2a2a;stroke-width:0.264583"
+       id="path2361"
+       cx="58.114628"
+       cy="98.003349"
+       rx="31.39234"
+       ry="8.7312498" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#241c1c;stroke-width:0.264583"
+       x="47.138653"
+       y="100.27348"
+       id="text2621"><tspan
+         sodipodi:role="line"
+         id="tspan2619"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#241c1c;stroke-width:0.264583"
+         x="47.138653"
+         y="100.27348">SIGNAL</tspan></text>
+    <rect
+       style="fill:#5858ff;fill-opacity:1;stroke-width:0.324934;stroke-dasharray:none"
+       id="rect4706"
+       width="44.979164"
+       height="15.48476"
+       x="157.90581"
+       y="177.38272"
+       inkscape:connector-avoid="true" />
+    <rect
+       style="fill:#6aff6a;fill-opacity:1;stroke-width:0.41228;stroke-dasharray:none"
+       id="rect4706-0"
+       width="44.979164"
+       height="24.928568"
+       x="157.51347"
+       y="192.93767"
+       inkscape:connector-avoid="true" />
+    <rect
+       style="fill:#ff6c6c;fill-opacity:1;stroke-width:0.309489;stroke-dasharray:none"
+       id="rect4706-6"
+       width="44.979164"
+       height="14.047572"
+       x="157.51347"
+       y="217.93642"
+       inkscape:connector-avoid="true" />
+    <path
+       style="fill:#6aff6a;fill-opacity:1;stroke-width:0.614;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 110.37608,128.18429 42.10173,76.73904"
+       id="path4848"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.00769455px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 24.059293,190.01846 v 0 c -7.099025,0 -14.1980503,-11.90625 -14.1980503,-23.8125 v -21.84399 c 0,-11.90625 7.1083703,-23.8125 14.2167403,-23.8125 v 0"
+       id="path4974"
+       inkscape:connector-type="orthogonal"
+       inkscape:connector-curvature="90" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 25.115434,119.79175 h 15.066443 v 70.98443 H 26.193326"
+       id="path5504"
+       inkscape:connector-type="orthogonal"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 60.947614,120.46863 h 15.64255 v 70.98443 h -6.476005"
+       id="path5506"
+       inkscape:connector-type="orthogonal"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.26447px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 98.561446,120.28863 h 14.499964 v 71.1644"
+       id="path5508"
+       inkscape:connector-type="orthogonal"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#d21d1d;stroke-width:1.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 28.878433,171.33358 v 20.1093 h 3.552176"
+       id="path5568"
+       inkscape:connector-type="orthogonal"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#05e815;stroke-width:1.363;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 20.600342,171.34376 v 20.13993 h 3.477641"
+       id="path5574"
+       inkscape:connector-type="orthogonal"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#16f538;stroke-width:1.365;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 56.498777,170.76598 v 20.59152 h 4.608277"
+       id="path5576"
+       inkscape:connector-type="orthogonal"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:url(#linearGradient5590);fill-opacity:1;fill-rule:evenodd;stroke:#f32c2c;stroke-width:1.465;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 65.997214,170.74098 v 20.59152 h 1.354209"
+       id="path5578"
+       inkscape:connector-type="orthogonal"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#00ef2f;stroke-width:1.365;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 93.527848,171.06424 v 20.3504 h 0.594265"
+       id="path5580"
+       inkscape:connector-type="orthogonal"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#dd2a03;stroke-width:1.45203;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 100.39105,171.10266 v 20.47076 h -4.385221"
+       id="path5582"
+       inkscape:connector-type="orthogonal"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#2154ff;fill-opacity:1;stroke:none;stroke-width:1.363;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6497"
+       width="38.462746"
+       height="28.523205"
+       x="8.8029089"
+       y="191.45305" />
+    <rect
+       style="fill:#3bff3b;fill-opacity:1;stroke:none;stroke-width:1.39639;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect9254"
+       width="38.084824"
+       height="29.171305"
+       x="47.265656"
+       y="191.129"
+       ry="0.68173105" />
+    <rect
+       style="fill:#ff8b3d;fill-opacity:1;stroke:none;stroke-width:1.41786;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect9308"
+       width="36.35696"
+       height="29.204704"
+       x="84.492722"
+       y="191.38191"
+       ry="0.68251121" />
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.1717px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#280b0b;fill-opacity:1;stroke:none;stroke-width:2.18332;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="40.139965"
+       y="204.47951"
+       id="text10632"
+       transform="scale(0.98054201,1.0198441)"><tspan
+         sodipodi:role="line"
+         id="tspan10630"
+         style="fill:#280b0b;stroke-width:2.18332"
+         x="40.139965"
+         y="204.47951">SUMMATOR</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.165;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 120.84968,205.98426 36.63363,0.94877"
+       id="path10682"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.165;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 120.84968,200.54201 36.63363,0.94877"
+       id="path10682-2"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.165;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 120.86476,211.42651 36.63363,0.94877"
+       id="path10682-6"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#241c1c;fill-opacity:1;stroke:#9e9757;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="166.09839"
+       y="87.104691"
+       id="text11664"><tspan
+         sodipodi:role="line"
+         id="tspan11662"
+         style="stroke-width:0;stroke-dasharray:none"
+         x="166.09839"
+         y="87.104691" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.44157px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#241c1c;fill-opacity:1;stroke:#9e9757;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="163.07367"
+       y="176.5071"
+       id="text11668"
+       transform="scale(0.9770432,1.0234962)"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0"
+         x="163.07367"
+         y="176.5071"
+         id="tspan11670">A signal memory partition </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0"
+         x="163.07367"
+         y="180.80905"
+         id="tspan11674">is responsible for keeping</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0"
+         x="163.07367"
+         y="185.11102"
+         id="tspan11676">information about the last</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0"
+         x="163.07367"
+         y="189.41298"
+         id="tspan11678">n signals from sensors</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0"
+         x="163.07367"
+         y="193.71495"
+         id="tspan11692">,which will be sorted in </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0"
+         x="163.07367"
+         y="198.01691"
+         id="tspan11694">proportion block like </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0"
+         x="163.07367"
+         y="202.31888"
+         id="tspan11718">(float1): (float2) : (float3)</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0"
+         x="163.07367"
+         y="206.62083"
+         id="tspan11722">and a number from </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0"
+         x="163.07367"
+         y="210.92279"
+         id="tspan11732">summator next to it</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0"
+         x="163.07367"
+         y="215.22476"
+         id="tspan11724">so this function is getting </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0"
+         x="163.07367"
+         y="219.52672"
+         id="tspan11726">a tuple and returns a list</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0"
+         x="163.07367"
+         y="223.82869"
+         id="tspan11734">of tuples</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0"
+         x="163.07367"
+         y="228.13065"
+         id="tspan11686" /><tspan
+         sodipodi:role="line"
+         style="stroke-width:0"
+         x="163.07367"
+         y="232.4326"
+         id="tspan11688" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#241c1c;fill-opacity:1;stroke:#9e9757;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       x="207.52829"
+       y="180.81911"
+       id="text11738"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0"
+         x="207.52829"
+         y="180.81911"
+         id="tspan11758">All numbers in result list would be added to each other.</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0"
+         x="207.52829"
+         y="185.22882"
+         id="tspan11768">then if the sum of the result of sensor1 is larger than sensor2</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0"
+         x="207.52829"
+         y="189.63853"
+         id="tspan11770">and sensor2 is larger than sensor3 the array would be sorted</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0"
+         x="207.52829"
+         y="194.04825"
+         id="tspan11772">and  numbers of the positions of the sensors in</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0"
+         x="207.52829"
+         y="198.45796"
+         id="tspan11776">this list would be sent to interpreter as scaling factor for</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0"
+         x="207.52829"
+         y="202.86768"
+         id="tspan11780">the input for corresponding socket.</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0"
+         x="207.52829"
+         y="207.27739"
+         id="tspan11890">Result list will be sent to the long turn memory, where it would </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0"
+         x="207.52829"
+         y="211.68709"
+         id="tspan11892">be added with the previous record </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0"
+         x="207.52829"
+         y="216.0968"
+         id="tspan11766" /><tspan
+         sodipodi:role="line"
+         style="stroke-width:0"
+         x="207.52829"
+         y="220.50652"
+         id="tspan11754"> </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0"
+         x="207.52829"
+         y="224.91623"
+         id="tspan11752">  </tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0"
+         x="207.52829"
+         y="229.32594"
+         id="tspan11742" /></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#dddd0b;stroke-width:1.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 37.800629,160.2525 10.850149,-0.48222"
+       id="path11782"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#cfcf33;stroke-width:1.165;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 74.208914,159.77028 10.126808,0.24112"
+       id="path11784"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#1c241c;fill-opacity:1;fill-rule:evenodd;stroke:#cae831;stroke-width:1.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.660517"
+       d="m 109.89386,160.0114 70.50153,17.37132"
+       id="path11786"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 180.39539,177.38272 7.0311,-37.14485"
+       id="path11894"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#e3dbdb;fill-opacity:1;stroke:none;stroke-width:0.753178;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.660517"
+       id="rect11948"
+       width="70.157349"
+       height="27.007509"
+       x="149.82759"
+       y="119.95238" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#241c1c;fill-opacity:1;stroke:none;stroke-width:1.065;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.660517"
+       x="149.82759"
+       y="119.95238"
+       id="text12296"><tspan
+         sodipodi:role="line"
+         id="tspan12294"
+         style="stroke-width:1.065"
+         x="149.82759"
+         y="119.95238" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#241c1c;fill-opacity:1;stroke:none;stroke-width:1.065;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:0.660517"
+       x="152.47781"
+       y="123.34904"
+       id="text12300"><tspan
+         sodipodi:role="line"
+         id="tspan12298"
+         style="font-size:3.52778px;stroke-width:1.065"
+         x="152.47781"
+         y="123.34904">Associative block is a small part</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;stroke-width:1.065"
+         x="152.47781"
+         y="127.75877"
+         id="tspan12302">of a long term memory.</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;stroke-width:1.065"
+         x="152.47781"
+         y="132.16849"
+         id="tspan12304">it is adding input with the data it</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;stroke-width:1.065"
+         x="152.47781"
+         y="136.57822"
+         id="tspan12306">has and then sends this numbers</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;stroke-width:1.065"
+         x="152.47781"
+         y="140.98793"
+         id="tspan12308">as scaling factors to sensors and</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:3.52778px;stroke-width:1.065"
+         x="152.47781"
+         y="145.39766"
+         id="tspan12314">interpreters.</tspan></text>
+    <path
+       style="fill:#1c241c;fill-opacity:1;fill-rule:evenodd;stroke:#cae831;stroke-width:1.07292;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:0.660517"
+       d="m 149.53698,133.91139 -39.64654,26.90789"
+       id="path11786-1"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:transform-center-x="0.82592143"
+       inkscape:transform-center-y="14.953412" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#291df7;stroke-width:1.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="m 110.37608,128.18429 39.45151,5.27184"
+       id="path12351"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#3016f7;stroke-width:1.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 86.746862,128.18429 72.76222,128.42541"
+       id="path12353"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#041cfa;fill-opacity:1;fill-rule:evenodd;stroke:#1e0cff;stroke-width:1.065;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 49.133005,128.42541 H 35.87171"
+       id="path12355"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
